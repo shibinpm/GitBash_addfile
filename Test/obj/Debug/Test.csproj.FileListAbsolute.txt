@@ -1,0 +1,7 @@
+C:\Users\ShibinPaulDhas\Desktop\Asp_aws\Test\bin\Debug\Test.exe.config
+C:\Users\ShibinPaulDhas\Desktop\Asp_aws\Test\bin\Debug\Test.exe
+C:\Users\ShibinPaulDhas\Desktop\Asp_aws\Test\bin\Debug\Test.pdb
+C:\Users\ShibinPaulDhas\Desktop\Asp_aws\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\ShibinPaulDhas\Desktop\Asp_aws\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\ShibinPaulDhas\Desktop\Asp_aws\Test\obj\Debug\Test.exe
+C:\Users\ShibinPaulDhas\Desktop\Asp_aws\Test\obj\Debug\Test.pdb
